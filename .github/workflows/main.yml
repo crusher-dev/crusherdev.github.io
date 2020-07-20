@@ -30,4 +30,4 @@ jobs:
 #       run: git push https://heroku:4061a111-a6e1-45ca-b299-2bfa71b94ac1@git.heroku.com/crusher-test.git master
 
     - name: RUN CLI Checks
-      run: npx crusher-cli run --project_id=40  --crusher_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo0NSwidGVhbV9pZCI6MzQsImlhdCI6MTU5NTIxMzQ0MywiZXhwIjo1MTk1MjA5ODQzfQ.VXPeJCGnH-ISGPHkinbwqKo3DEnoH_zvtJeGElQAvH4
+      run: npx crusher-cli run --project_id=35  --crusher_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo0MywidGVhbV9pZCI6MzEsImlhdCI6MTU5NTIyNTA4MSwiZXhwIjo1MTk1MjIxNDgxfQ.9h_M6B53W_LgfuQcaN4DmmmPfhHdRC3hlewEzIRH3IY
