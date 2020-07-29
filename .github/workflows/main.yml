@@ -28,4 +28,4 @@ jobs:
         heroku_email: "utkarshdix02@gmail.com"
 
     - name: RUN CLI Checks
-      run: npx crusher-cli run --project_id=49  --crusher_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo1OCwidGVhbV9pZCI6MzgsImlhdCI6MTU5NTU3OTkxOSwiZXhwIjo1MTk1NTc2MzE5fQ.5dC3sSYScu06EnJYC8W4us0vr9VHQQcb3u7xCttXRNw 
+      run: npx crusher-cli run --endpoint=https://cc3966b2f5ac.ngrok.io --project_id=58  --crusher_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo2MCwidGVhbV9pZCI6NDQsImlhdCI6MTU5NjAzNTQyOCwiZXhwIjo1MTk2MDMxODI4fQ.kL-_iI3l3R5u2Q1FzHDDWg6ENHn31K_4vqo89ysFRhI
